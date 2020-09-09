@@ -4,3 +4,10 @@
 
 layout: home
 ---
+# Test Title
+
+regular text 
+
+* bullet1
+* bullet2
+* bullet3 
