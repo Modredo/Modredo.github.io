@@ -21,9 +21,8 @@
 title: Modred's Blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Working in Google Cloud Platform, designing a data infrastructure 
-  from scratch. Focus on using Python, Airflow / Composer, Big Query, 
-  some Docker and learnig as I go. 
+  This is my scrap book page of random projects I worked on. I record the ones where 
+  I found anything taking me more time to figure out than I would want to, ever again.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gcppython
