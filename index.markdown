@@ -23,10 +23,10 @@ I have a 'Night Vision' raspberry pi compatible camera and a raspberry pi ( a co
 
 ## Installation 
 
-Source: </br>
-[github/motionEyeOS](https://github.com/ccrisan/motioneyeos)</br>
-At author has great installation instructions please refer to them: </br>
-[Installation Instruction](https://github.com/ccrisan/motioneyeos/wiki/Installation)</br>
+Source:<br>
+[github/motionEyeOS](https://github.com/ccrisan/motioneyeos)<br>
+At author has great installation instructions please refer to them: <br>
+[Installation Instruction](https://github.com/ccrisan/motioneyeos/wiki/Installation)<br>
 
 I downloaded the image file as per instructions and extracted them with 'unxz'
 ```
@@ -61,3 +61,5 @@ Root Directory  : /
 
 ![alt text](./img/network_share.png "Disks")
 
+## test areas
+[About Page](./about.markdown)<br>
