@@ -7,7 +7,7 @@ layout: home
 # Posts
 
 [Welcome post - sample ]({% post_url 2020-06-07-welcome-to-jekyll %})
-[empty post - test dates ]({% post_url 2021/05/16-date-test %})
+
 # Raspberry Pi CCTV - motionEyeOS
 
 ## Brief 
